@@ -1,0 +1,5 @@
+ls - Lists files in directory
+pwd - Prints current working directory
+ifconfig (or ip a) - network interface details
+nmap target - scan open ports & services
+whoami - shows current logged-in user

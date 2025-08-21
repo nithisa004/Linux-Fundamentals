@@ -1,0 +1,17 @@
+Name: Nithisa Devi J
+Roll No: 1122213024
+ls - Lists files in directory
+pwd - Prints current working directory
+ifconfig (or ip a) - network interface details
+nmap target - scan open ports & services
+whoami - shows current logged-in user
+   8       16.566 nano log.txt
+   9        0.761 history | tail -6 >> log.txt
+  10     1:03.302 nano log.txt
+  11        0.016 truncate -s 0 log.txt
+  12        6.200 nano log.txt
+
+ /\_/\  
+( o.o ) 
+ > ^ <
+Continuous learning is the fuel for continuous success.

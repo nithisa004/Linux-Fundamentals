@@ -1,0 +1,6 @@
+   8       16.566 nano log.txt
+   9        0.761 history | tail -6 >> log.txt
+  10     1:03.302 nano log.txt
+  11        0.016 truncate -s 0 log.txt
+  12        6.200 nano log.txt
+
